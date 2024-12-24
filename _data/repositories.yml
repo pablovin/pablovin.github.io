@@ -1,14 +1,18 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - pablovin  
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - pablovin/FaceChannel
+  - pablovin/ChefsHatGYM
+  - pablovin/ChefsHatPlayersClub
+  - pablovin/ChefsHat_Play
+  - pablovin/Chefshat_Run
+  - pablovin/MoodyFramework
+  - pablovin/OmgEmapathyPlus  
+  - pablovin/SelfAffectiveMemory
+  - pablovin/Shreckbots
+  - pablovin/myGameLog
+  - pablovin/LapTimeTrackerRC
+  - pablovin/CozmoDevelopmentProject

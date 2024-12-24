@@ -2,96 +2,134 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Pablo Vinicius Alves de Barros    
+    - name: Nationality
+      value: Brazilian
     - name: Languages
-      value: English, German
+      value: Portuguese, English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Universität Hamburg -  Hamburg, Germany
+      year: 2016
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - The research developed during my Ph.D. was mainly focused on affective robotics. During the three years of my doctoral studies, I developed different deep and self-organizing neural networks to model different aspects of emotional processes, such as perception, attention, memory, and mood. In the end, I proposed an emotion appraisal framework based on deep neural networks to be used in human-robot interaction scenarios.
+        - I worked mostly on affective computing, designing and implementing deep and self-organizing neural networks for facial expression and body movement recognition and modeling aeffect from the voice. Part of my job was to design, validate and run human studies involving the iCub robot, to evaluate the developed models in a real-world environment. I took part in the organization of international conferences, including IROS2015, and advised MSc and BSc students in collaborative projects related to my research field.
+        - title: Modelling Affection Mechanisms using Deep and Self-Organizing Neural Networks.
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Artificial Neural Networks.
+            - Affective Computing.
+    - title: MSc
+      institution: Universidade de Pernambuco - Recife, Brazil
+      year: 2013
       description:
-        - Description 1.
-        - Description 2.
+        - I worked on the development, evaluation, and deployment of Brazilian sign language recognition using low-level computer vision processing techniques and recurrent neural networks. I was part of an international research group focused on assistive computing and was responsible for the advising and mentoring of bachelor students.
+        - title: Reconhecimento e Previsão de Gestos
+                  contents:
+                    - Brazilian Sign Language Recognition.        
+    - title: BSc
+      institution: Universidade Federal Rural de Pernambuco - Serra Talhada, Brazil
+      year: 2011
+      description:
+        - I worked on the development of an automated system that translates onthologies into deploy-ready code, to be used on the development of web 3.0 systems.
+        - title: Projeto PaMDA - Um framework Semântico para Geração de Sistemas
+                  contents:
+                    - Semantic Web
+                    - Onthologies
+      
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+    - title: Senior Research Scientist
+      institution: Sony - Brussels, Belgium
+      year: 2022 -       
+    - title: External Professor
+      institution: Universidade de Pernambuco - Recife, Brazil
+      year: 2022 -     
+
     - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+      institution: Universidade de Pernbambuco - Recife, Brazil
+      year: 2017 - 2022
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Research Scientist
+      institution: Istituto Italiano di Tecnologia - Genova, Italy
+      year: 2019 - 2022      
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+    - title: Postdoctoral Research Fellow
+      institution: Universität Hamburg -  Hamburg, Germany
+      year: 2016 - 2029
+      
+    - title: Research Engineer
+      institution: Vocal Lab Sistemas da Informação -  Rcife, Brazil
+      year: 2012 - 2012
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Research Engineer
+      institution: QualiHouse - Automação Predial-  Rcife, Brazil
+      year: 2011 - 2012
+
+    - title: Chronos Soluções em TI
+      institution: CEO and Founder
+      year: 2007 - 2011            
+
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/pablovin/ChefsHatGYM">Chef`s Hat - A Game Platform for Social Interaction Studies</a>
+      year: 2019-now
+      description: Bulding a platform for social interaction and artificial intelligence studies based on a multiplayer card game.
+
+    - title: <a href="https://www.crossmodal-learning.org/projects-phase1/area-a/a5-neurobotic-brain.html">Crossmodal learning in a neurobotic cortical and midbrain model</a>
+      year: 2016-2019
+      description: The goals of project A5 are (1) to develop novel neurocomputational techniques to improve our understanding of the superior colliculus (SC) and linked cortical areas; (2) to design and implement a self-organizing audiovisual model of these cortico-collicular networks in a physical robot; and (3) to compare both the model’s neural activity and the robot’s physical behaviour to the neural activity and physical behaviour of humans. The project will produce a novel computational architecture that can direct a robot’s gaze in a natural way to relevant stimuli.
+
+    - title: <a href="https://github.com/pablovin/FaceChannel">The Face Channel</a>
+      year: 2016-2022
+      description: The FaceChannel is a lightweight implementation that encapsulates different facial expression recognition models, and makes it easier to deploy and use them.
+
+    - title: <a href="https://github.com/pablovin/OmgEmapathyPlus">OMG Empathy</a>
+      year: 2013-2019
+      description: OMG Empathy provides different datasets, models and analysis for empathy recognition.
+
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+  - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Winner of the best BSc poster presentation (advisor) at the Latin American School for Robotics (LACORO 2024)        
+    - year: 2024
       items:
-        - Max Planck Medal
+        - Runner up for best MSc poster presentation (advisor) at the Latin American School for Robotics (LACORO 2024)        
+    - year: 2022
+      items:
+        - Best Paper Award - International Conference on Affective and Inteligent Interaction (ACII 2022)        
+    - year: 2016
+      items:
+        - Best Paper Award - 20th Robocup International Symposium.
+    - year: 2012
+      items:
+        - Microsoft Student Partner.        
+    - year: 2012
+      items:
+        - 4th Place at the Microsoft Imagine Cup - Brazil.                
+    - year: 2011
+      items:
+        - Honorary Merit - Valedictorian of Your Program, Federal Rural University of Pernambuco.
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Affective Computing      
+    - title: Deep Learning
+    - title: Social Agents
+    - title: AI in Games            
+      
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Sim Racing, RC Cars, Retrogaming, RPG
