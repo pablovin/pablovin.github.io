@@ -5,7 +5,7 @@
 title: Pablo Barros - The Page # the website title (if blank, full name will be used instead)
 first_name: Pablo
 middle_name: 
-last_name: Barros
+last_name: Barros 
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
