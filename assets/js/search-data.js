@@ -62,16 +62,16 @@ ninja.data = [{
     },{id: "news-we-are-incredibly-proud-to-announce-that-10-of-our-brilliant-students-from-team-visão-at-the-university-of-pernambuco-had-the-amazing-opportunity-to-present-their-research-work-at-the-prestigious-latin-american-summer-school-in-robotics-lacoro-2024-held-in-rancagua-chile-during-the-event-they-participated-in-intensive-workshops-and-tutorials-in-addition-to-attending-lectures-given-by-some-of-the-most-renowned-researchers-in-the-fields-of-robotics-computational-cognition-and-machine-learning-and-we-have-even-more-exciting-news-to-share-team-visão-was-a-standout-at-the-event-competing-in-all-award-categories-best-undergraduate-master-s-and-doctoral-poster-we-returned-home-with-the-trophy-for-best-undergraduate-presentation-an-incredible-achievement-by-our-student-alexandre-r-m-pereira-we-celebrate-the-effort-and-dedication-of-everyone-involved-and-will-continue-to-promote-excellence-in-research-and-innovation-congratulations-to-all-the-participants-and-winners",
           title: 'We are incredibly proud to announce that 10 of our brilliant students from...',
           description: "",
-          section: "News",},{id: "projects-crossmodal-learning-in-a-neurobotic-cortical-and-midbrain-model",
-          title: 'Crossmodal learning in a neurobotic cortical and midbrain model',
-          description: "Understand and model the brains mechanism for crossmodal learning",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project-copy/";
-            },},{id: "projects-chef-s-hat-a-game-platform-for-social-interaction-studies",
+          section: "News",},{id: "projects-chef-s-hat-a-game-platform-for-social-interaction-studies",
           title: 'Chef`s Hat - A Game Platform for Social Interaction Studies',
           description: "Bulding a platform for social interaction and artificial intelligence studies based on a multiplayer card game.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/1_chefshat/";
+            },},{id: "projects-crossmodal-learning-in-a-neurobotic-cortical-and-midbrain-model",
+          title: 'Crossmodal learning in a neurobotic cortical and midbrain model',
+          description: "Understand and model the brains mechanism for crossmodal learning",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_cml/";
             },},{
         id: 'social-email',
         title: 'email',
