@@ -18,26 +18,20 @@
         - The research developed during my Ph.D. was mainly focused on affective robotics. During the three years of my doctoral studies, I developed different deep and self-organizing neural networks to model different aspects of emotional processes, such as perception, attention, memory, and mood. In the end, I proposed an emotion appraisal framework based on deep neural networks to be used in human-robot interaction scenarios.
         - I worked mostly on affective computing, designing and implementing deep and self-organizing neural networks for facial expression and body movement recognition and modeling aeffect from the voice. Part of my job was to design, validate and run human studies involving the iCub robot, to evaluate the developed models in a real-world environment. I took part in the organization of international conferences, including IROS2015, and advised MSc and BSc students in collaborative projects related to my research field.
         - title: Modelling Affection Mechanisms using Deep and Self-Organizing Neural Networks.
-          contents:
-            - Artificial Neural Networks.
-            - Affective Computing.
+          
     - title: MSc
       institution: Universidade de Pernambuco - Recife, Brazil
       year: 2013
       description:
         - I worked on the development, evaluation, and deployment of Brazilian sign language recognition using low-level computer vision processing techniques and recurrent neural networks. I was part of an international research group focused on assistive computing and was responsible for the advising and mentoring of bachelor students.
         - title: Reconhecimento e Previsão de Gestos
-                  contents:
-                    - Brazilian Sign Language Recognition.        
+
     - title: BSc
       institution: Universidade Federal Rural de Pernambuco - Serra Talhada, Brazil
       year: 2011
       description:
         - I worked on the development of an automated system that translates onthologies into deploy-ready code, to be used on the development of web 3.0 systems.
-        - title: Projeto PaMDA - Um framework Semântico para Geração de Sistemas
-                  contents:
-                    - Semantic Web
-                    - Onthologies
+        - title: Projeto PaMDA - Um framework Semântico para Geração de Sistemas                  
       
 
 - title: Experience
