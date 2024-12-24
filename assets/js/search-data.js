@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -59,10 +59,12 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-we-are-incredibly-proud-to-announce-that-10-of-our-brilliant-students-from-team-visão-at-the-university-of-pernambuco-had-the-amazing-opportunity-to-present-their-research-work-at-the-prestigious-latin-american-summer-school-in-robotics-lacoro-2024-held-in-rancagua-chile-during-the-event-they-participated-in-intensive-workshops-and-tutorials-in-addition-to-attending-lectures-given-by-some-of-the-most-renowned-researchers-in-the-fields-of-robotics-computational-cognition-and-machine-learning-and-we-have-even-more-exciting-news-to-share-team-visão-was-a-standout-at-the-event-competing-in-all-award-categories-best-undergraduate-master-s-and-doctoral-poster-we-returned-home-with-the-trophy-for-best-undergraduate-presentation-an-incredible-achievement-by-our-student-alexandre-r-m-pereira-we-celebrate-the-effort-and-dedication-of-everyone-involved-and-will-continue-to-promote-excellence-in-research-and-innovation-congratulations-to-all-the-participants-and-winners",
-          title: 'We are incredibly proud to announce that 10 of our brilliant students from...',
+    },{id: "news-announcement-1",
+          title: 'Announcement_1',
           description: "",
-          section: "News",},{id: "projects-chef-s-hat-a-game-platform-for-social-interaction-studies",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_1/";
+            },},{id: "projects-chef-s-hat-a-game-platform-for-social-interaction-studies",
           title: 'Chef`s Hat - A Game Platform for Social Interaction Studies',
           description: "Bulding a platform for social interaction and artificial intelligence studies based on a multiplayer card game.",
           section: "Projects",handler: () => {
