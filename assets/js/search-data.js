@@ -16,8 +16,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-students-orientation",
-          title: "Students Orientation",
+        },{id: "nav-student-orientation",
+          title: "Student Orientation",
           description: "A list of student projects that I advised over the last years",
           section: "Navigation",
           handler: () => {
