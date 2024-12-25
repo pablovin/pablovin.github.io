@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Shreckbots
-description: A dataset for story-driven narrative impact prediction
+description: A chatbot management system
 img: assets/img/Sage.png
 importance: 2
 category: fun

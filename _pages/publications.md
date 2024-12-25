@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: You can filter my publications per keywords.
+description: You can filter my publications using keywords.
 nav: true
 nav_order: 2
 ---

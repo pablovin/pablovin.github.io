@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My Game Log
-description: A dataset for story-driven narrative impact prediction
+description: A solution for video game collection management
 img: assets/img/myGameLogs_Logo.png
 importance: 2
 category: fun
