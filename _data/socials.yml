@@ -29,7 +29,7 @@ orcid_id: 0000-0002-6517-682X # your ORCID ID
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
-rss_icon: false # set to true to show the RSS icon
+rss_icon: true # set to true to show the RSS icon
 scholar_userid: LU9tpkMAAAAJ&hl # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
@@ -46,6 +46,6 @@ scholar_userid: LU9tpkMAAAAJ&hl # your Google Scholar ID
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
-  # logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-  # title: Custom Social
-  # url: https://www.alberteinstein.com/
+  logo: https://timevisaoupe.github.io/assets/images/Logo_Completo.png # can be png, svg, jpg
+  title: Time Visão
+  url: https://timevisaoupe.github.io/
