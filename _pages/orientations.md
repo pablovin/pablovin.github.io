@@ -1,10 +1,6 @@
 ---
-title: Pesquisadores
-layout: single
-permalink: /pesquisadores/
-
-layout: single
-title: Students Orientation
+layout: page
+title: Student Orientation
 permalink: /studentOrientation/
 description: A list of student projects that I advised over the last years
 nav: true
