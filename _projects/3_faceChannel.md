@@ -9,7 +9,7 @@ related_publications: false
 ---
 
 
-["Chefs Hat"]("https://www.pablobarros.com/assets/img/face_channeldemo.png")
+!["Chefs Hat"]("https://github.com/pablovin/pablovin.github.io/blob/main/assets/img/face_channeldemo.png?raw=true")
 
 The Facechannel project aimed to create light-weighted neural networks for facial expression description, relying on innovative implementation and training mechanisms.
 The outcome of this project is a ready-to-use model built in python for the description of facial expressions on images and videos.

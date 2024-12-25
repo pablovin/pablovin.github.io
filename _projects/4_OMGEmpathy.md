@@ -8,7 +8,7 @@ category: work
 related_publications: false
 ---
 
-["Chefs Hat"]("https://www.pablobarros.com/assets/img/OmgEmpathy.png")
+!["Chefs Hat"]("https://github.com/pablovin/pablovin.github.io/blob/main/assets/img/OmgEmpathy.png?raw=true")
 
 The ability to perceive, understand and respond to social interactions in a human-like manner is one of the most desired capabilities in artificial agents, particularly social robots. These skills are highly complex and require focus on several different aspects of research, including affective understanding. An agent which is able to recognize, understand and, most importantly, adapt to different human affective behaviors can increase its own social capabilities by being able to interact and communicate in a natural way.
 

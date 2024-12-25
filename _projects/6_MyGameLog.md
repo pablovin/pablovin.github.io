@@ -8,7 +8,7 @@ category: fun
 related_publications: false
 ---
 
-["Shreckbots"]("https://www.pablobarros.com/assets/img/myGameLogs_Logo.png")
+!["Shreckbots"]("https://github.com/pablovin/pablovin.github.io/blob/main/assets/img/myGameLogs_Logo.png?raw=true")
 
 My Game Log is an innovative solution designed for enthusiasts of physical games and console collections. It offers a personalized experience on a local webserver to store, track, and organize your game collections efficiently. It also provides a tool to generate QR codes pointing to specific collection pages, in a printable manner.
 

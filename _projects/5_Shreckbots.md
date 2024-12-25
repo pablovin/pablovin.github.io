@@ -8,7 +8,7 @@ category: fun
 related_publications: false
 ---
 
-["Shreckbots"]("https://www.pablobarros.com/assets/img/Sage.png")
+!["Shreckbots"]("https://github.com/pablovin/pablovin.github.io/blob/main/assets/img/Sage.png?raw=true")
 
 This project is a chatbot management system based on Streamlit and Llama-index that allows users to create chatbots, manage them and interact with them.
 The chatbots use a Retrieval Augmented Generation (RAG) architecture, powered by Llama-index, to gather knowledge from text files or a media wiki website.
