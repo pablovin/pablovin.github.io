@@ -1,0 +1,100 @@
+- name: PhD
+  members:
+    - title: Active Object Tracking in Non-Overlapping Sequential Camera Systems Using Reinforcement Learning
+      student: D. Fuentes
+      year: 2026
+      place: Universidade de Pernambuco, Recife, Brazil
+    - title: A Multimodal Approach Using Deep Learning for Fall Detection
+      student: Y. Galvao
+      year: 2020
+      place: Universidade de Pernambuco, Recife, Brazil      
+    
+- name: MSc
+  members:
+    - name: Gesture Recognition with a Convolutional Long Short Term Memory Recurrent Neural Network
+      student: E. Tsironi
+      year: 2015      
+      place: Universität Hamburg, Hamburg, Germany
+    - name: Deep Neural Representation Analisys Through Hierarchical Visualization
+      student: N. Mousavi
+      year: 2015
+      place: Universität Hamburg, Hamburg, Germany
+    - name: Emotion Recognition from Body Expressions with a Recurrent Self-Organizing Neural Architecture
+      student: N. Elfaramawy
+      year: 2016
+      place: Universität Hamburg, Hamburg, Germany      
+    - name: Towards Understanding Auditory Representations in Emotional Expressions
+      student: I. Wieser
+      year: 2016
+      place: Universität Hamburg, Hamburg, Germany      
+    - name: Reconhecimento de Qudas com uma Rede Convolucional Treinada com Aprendizagem por Reforço
+      student: T. Alves
+      year: 2017
+      place: Universidade de Pernambuco, Recife, Brazil
+    - name: Aprendizagem de ações em um robô através de reforço emocional
+      student: R. Almeida
+      year: 2018
+      place: Universidade de Pernambuco, Recife, Brazil
+    - name: Modelling Affect Core for Social Robot Interaction
+      student: N. Churamani
+      year: 2018
+      place: Universität Hamburg, Hamburg, Germany
+    - name: Integrando Fatores Emocionais ao RATSLAM
+      student: J. Barbosa
+      year: 2018
+      place: Universidade de Pernambuco, Recife, Brazil
+    - name: Uma Rede Convolucional Generativa para Audio Emotivo
+      student: I. Vanessa
+      year: 2018
+      place: Universidade de Pernambuco, Recife, Brazil
+    - name: Multi-Attribute Face Generation Using Conditional BEGAN
+      student: A. Elshinawi
+      year: 2018
+      place: Universität Hamburg, Hamburg, Germany 
+    - name: Transfer Learning of Face Representations Using Semi-supervised Strategies
+      student: E. Fliesswasser
+      year: 2018
+      place: Universität Hamburg, Hamburg, Germany 
+    - name: Desenvolvendo Agentes Artificiais Empáticos utilizando Large Language Models (LLMs)
+      student: L. Machado
+      year: 2024
+      place: Universidade de Pernambuco, Recife, Brazil
+    - name: Desvendando os Segredos da IA em Jogos - Explicações Contrafactuais com Insights Introspectivos para Agentes de RL Mais Inteligentes e Transparentes
+      student: G. Lima
+      year: 2024
+      place: Universidade de Pernambuco, Recife, Brazil
+    - name: IA Generativa para Narrações de Jogos Multijogador - Melhorando a Compreensão e o Entretenimento dos Espectadores
+      student: N. Cauas
+      year: 2024
+      place: Universidade de Pernambuco, Recife, Brazil        
+
+- name: BSc
+  members:
+    - name: P300 Classification in EEG Signals Using Ladder Networks
+      student: B. Thiede
+      year: 2017
+      place: Universität Hamburg, Hamburg, Germany 
+    - name: Ball Tracking for RoboCup Soccer Using Deep Neural Networks
+      student: D. Speck
+      year: 2016
+      place: Universität Hamburg, Hamburg, Germany 
+    - name: Sistema de visão computacional estereoscópica aplicado a robótica móvel para reconhecimento e localização de objetos
+      student: P. C. Marques
+      year: 2014
+      place: Universidade Federal Rural de Pernambuco, Serra Talhada, Brazil
+    - name: Scene Description using Affective Labeling
+      student: M. Sewina
+      year: 2018
+      place: Universität Hamburg, Hamburg, Germany 
+    - name: Learning to Recognize Objects through Observation and Active Exploration with the Robot NICO
+      student: V. Gryshuk
+      year: 2018
+      place: Universität Hamburg, Hamburg, Germany 
+    - name: Facial Expression Editing using a Conditional Adversarial Autoencoder 
+      student: A. Lindt
+      year: 2018
+      place: Universität Hamburg, Hamburg, Germany 
+           
+
+- name: Alumni
+  members:
