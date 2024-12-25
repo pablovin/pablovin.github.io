@@ -5,10 +5,10 @@ description: A dataset for story-driven narrative impact prediction
 img: assets/img/Sage.png
 importance: 2
 category: fun
-related_publications: true
+related_publications: false
 ---
 
-!["Shreckbots"]("assets/img/Sage.png")
+["Shreckbots"]("https://www.pablobarros.com/assets/img/Sage.png")
 
 This project is a chatbot management system based on Streamlit and Llama-index that allows users to create chatbots, manage them and interact with them.
 The chatbots use a Retrieval Augmented Generation (RAG) architecture, powered by Llama-index, to gather knowledge from text files or a media wiki website.
