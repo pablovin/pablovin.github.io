@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: You can filter my publications using keywords.
+description:
 nav: true
 nav_order: 2
 ---
@@ -67,6 +67,7 @@ h1 {
   {% endfor %}
 </div>
 
+<h1>My Publications</h1>
 
 {% include bib_search.liquid %}
 
