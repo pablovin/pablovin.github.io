@@ -71,8 +71,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
-            },},{id: "projects-chef-s-hat-a-game-platform-for-social-interaction-studies",
-          title: 'Chef`s Hat - A Game Platform for Social Interaction Studies',
+            },},{id: "projects-chef-s-hat-multiplayer-card-game",
+          title: 'Chef`s Hat Multiplayer Card Game',
           description: "Bulding a platform for social interaction and artificial intelligence studies based on a multiplayer card game.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_chefshat/";
@@ -81,6 +81,26 @@ ninja.data = [{
           description: "Understand and model the brains mechanism for crossmodal learning",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_cml/";
+            },},{id: "projects-facechannel",
+          title: 'FaceChannel',
+          description: "A ligth-weighted neural network for facial expression description",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_faceChannel/";
+            },},{id: "projects-omg-empathy-dataset",
+          title: 'OMG-Empathy Dataset',
+          description: "A dataset for story-driven narrative impact prediction",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_OMGEmpathy/";
+            },},{id: "projects-shreckbots",
+          title: 'Shreckbots',
+          description: "A dataset for story-driven narrative impact prediction",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_Shreckbots/";
+            },},{id: "projects-my-game-log",
+          title: 'My Game Log',
+          description: "A dataset for story-driven narrative impact prediction",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_MyGameLog/";
             },},{
         id: 'social-email',
         title: 'email',
