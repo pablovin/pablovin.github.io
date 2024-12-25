@@ -10,54 +10,51 @@ nav_order: 2
 <style>
 .container {
   width: 100%;
-  padding: 0 20px;
   margin: auto;
-}
-
-h1 {
-  color: var(--text-color);
-  text-align: center;
-  margin-bottom: 30px;
+  color: #ECF0F1; /* Light text color for dark backgrounds */
 }
 
 .thesis-item {
-  background-color: var(--background-color);
-  border: 1px solid var(--border-color);
+  background-color: rgba(236, 240, 241, 0.8); /* Semi-transparent background */
+  border: 1px solid #BDC3C7;
   border-radius: 10px;
-  padding: 10px;
+  padding: 10px 20px;
   margin-bottom: 10px;
   display: flex;
-  flex-wrap: wrap; /* Ensure it wraps on smaller screens */
-  align-items: center;
+  flex-direction: column; /* Stack elements vertically on small screens */
+  align-items: flex-start; /* Align items to start on small screens */
   justify-content: space-between;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Soft shadow for better separation */
 }
 
 .thesis-year, .thesis-type, .thesis-place {
   font-size: 16px;
-  color: var(--text-color);
+  color: #34495E; /* Dark text for readability */
   margin-right: 15px;
-  white-space: nowrap; /* Prevents breaking into multiple lines */
+  text-shadow: 1px 1px 2px rgba(255,255,255,0.7); /* White text shadow for dark backgrounds */
 }
 
 .thesis-title {
   font-size: 16px;
-  color: var(--link-color);
+  color: #2980B9;
   text-decoration: none;
   flex-grow: 1;
-  min-width: 0; /* Allows text to wrap */
+  text-shadow: 1px 1px 2px rgba(255,255,255,0.5); /* Enhancing legibility */
+  margin-bottom: 5px; /* Add margin-bottom on mobile for spacing */
 }
 
 .thesis-title:hover {
-  text-decoration: var(--hover-decoration);
+  text-decoration: underline;
 }
 
-/* Responsive adjustments */
-@media (max-width: 600px) {
-  .thesis-year, .thesis-type, .thesis-place {
-    font-size: 14px; /* Smaller text on smaller screens */
+@media (min-width: 768px) {
+  .thesis-item {
+    flex-direction: row; /* Return to horizontal layout on larger screens */
+    align-items: center; /* Center items vertically */
   }
+
   .thesis-title {
-    font-size: 14px;
+    margin-bottom: 0; /* Remove the margin-bottom on larger screens */
   }
 }
 </style>
