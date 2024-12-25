@@ -21,7 +21,7 @@ Welcome to my personal website! I am a research scientist with over a decade of 
 
 Throughout my career, I have been committed to designing, training, and evaluating machine learning systems that improve the understanding and modeling of human behavior in automated systems. I have **advised students at various academic levels (BSc, MSc, PhD)** and continue to find joy in mentoring.
 
-In addition to my main roles, I am an **external professor at the University of Pernambuco, Brazil**, where I am part of the <a href="https://timevisaoupe.github.io/", target="_blank">Time Visão research group</a>. I advise students, deliver lectures, and participate in innovative projects across many related fields.
+In addition to my main roles, I am an **external professor at the University of Pernambuco, Brazil**, where I am part of the <a href="https://timevisaoupe.github.io/" target="_blank">Time Visão research group</a>. I advise students, deliver lectures, and participate in innovative projects across many related fields.
 
 This site showcases the projects that have marked my career—from my academic tenure, achieving a PhD and continuing as a **postdoctoral researcher at the University of Hamburg, in Germany**, to my contributions as a **researcher at the Italian Institute of Technology, in Genova, Italy**. Currently, I am part of the **Digital Profile team at Sony**, driving innovation and merging scientific rigor with strategic business applications.
 

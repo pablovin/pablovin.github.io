@@ -9,8 +9,7 @@ related_publications: false
 references:
 ---
 
-
-!["Chefs Hat"](https://www.pablobarros.com/assets/img/chefHatGym.png)
+<img src="https://www.pablobarros.com/assets/img/chefHatGym.png" width="80%">
 
 Chef's Hat is a four-players competitive card game designed to be played by humans and artificial players. Its rules were developed to allow a fast learning curve, but the game mechanics permit the emergence of fo rich strategies to beat your adversaries. The entire game was built with the interaction between humans and agents in mind, and all the game design elements are easily captured by humans and parsed by automatic perception systems. Interaction between the players is the main aspect of the game, and to develop harmonic gameplay scenarios between artificial players and humans is our main goal.
 

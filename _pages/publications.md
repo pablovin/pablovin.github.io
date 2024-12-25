@@ -8,45 +8,58 @@ nav_order: 2
 ---
 
 <style>
-    .container {
+.container {
   width: 100%;
-  margin: auto;  
+  padding: 0 20px;
+  margin: auto;
 }
 
 h1 {
-  color: #2C3E50;
+  color: var(--text-color);
   text-align: center;
   margin-bottom: 30px;
 }
 
 .thesis-item {
-  background-color: #ECF0F1;
-  border: 1px solid #BDC3C7;
+  background-color: var(--background-color);
+  border: 1px solid var(--border-color);
   border-radius: 10px;
-  padding: 10px 20px;
+  padding: 10px;
   margin-bottom: 10px;
   display: flex;
+  flex-wrap: wrap; /* Ensure it wraps on smaller screens */
   align-items: center;
   justify-content: space-between;
 }
 
 .thesis-year, .thesis-type, .thesis-place {
   font-size: 16px;
-  color: #34495E;
+  color: var(--text-color);
   margin-right: 15px;
+  white-space: nowrap; /* Prevents breaking into multiple lines */
 }
 
 .thesis-title {
   font-size: 16px;
-  color: #2980B9;
+  color: var(--link-color);
   text-decoration: none;
   flex-grow: 1;
+  min-width: 0; /* Allows text to wrap */
 }
 
 .thesis-title:hover {
-  text-decoration: underline;
+  text-decoration: var(--hover-decoration);
 }
 
+/* Responsive adjustments */
+@media (max-width: 600px) {
+  .thesis-year, .thesis-type, .thesis-place {
+    font-size: 14px; /* Smaller text on smaller screens */
+  }
+  .thesis-title {
+    font-size: 14px;
+  }
+}
 </style>
 
 

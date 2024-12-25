@@ -15,14 +15,14 @@ horizontal: false
 }
 
 h1 {
-  color: #2c3e50;
+  color: var(--text-color-primary);
   text-align: center;
   margin-top: 20px;
 }
 
 h2 {
-  color: #34495e;
-  border-bottom: 2px solid #ecf0f1;
+  color: var(--text-color-secondary);
+  border-bottom: 2px solid var(--background-color);
   padding-bottom: 5px;
 }
 
@@ -35,16 +35,16 @@ h2 {
   align-items: center;
   margin-bottom: 15px;
   padding: 10px;
-  background-color: #ecf0f1;
+  background-color: var(--background-color);
   border-radius: 8px;
 }
 
 .project-year {
   font-size: 20px;
-  color: #2980b9;
+  color: var(--link-color);
   width: 70px;
   text-align: center;
-  border-right: 2px solid #bdc3c7;
+  border-right: 2px solid var(--border-color);
   padding-right: 20px;
 }
 
@@ -60,12 +60,12 @@ h2 {
 
 .project-info {
   font-size: 16px;
-  color: #7f8c8d;
+  color: var(--info-color);
 }
 
 em {
   font-style: normal;
-  color: #34495e;
+  color: var(--text-color-secondary);
 }
 </style>
 
