@@ -155,7 +155,7 @@ ninja.data = [{
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("https://timevisaoupe.github.io/", "_blank");
         },
       },{
       id: 'light-theme',
