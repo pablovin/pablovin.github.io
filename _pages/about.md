@@ -17,9 +17,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome to my personal website! Here, you can explore the fascinating intersections of **my career in artificial intelligence**, where the science of understanding meets the art of innovation.
+Welcome to my personal website! I am a research scientist with over a decade of experience in developing technologies in **social signal processing, intelligent agents, generative AI, and affective computing**. My expertise centers around utilizing artificial neural networks to enhance human experiences through advancements in affective computing, social signal processing, and human-robot interaction.
 
-Over the last decade, I've delved into the realms of artificial neural networks, focusing on enriching human experiences through advancements in **affective computing, social signal processing, and human-robot interaction**. I have worked with affective and social robots, as well as crafting intelligent agents for games that push the boundaries of interaction and engagement. Most of my work is focused on **designing, training and evaluating different machine learning systems**, and providing solutions for better understanding and modeling humans in automated systems.
+Throughout my career, I have been committed to designing, training, and evaluating machine learning systems that improve the understanding and modeling of human behavior in automated systems. I have **advised students at various academic levels (BSc, MSc, PhD)** and continue to find joy in mentoring.
 
-This site is a gateway to the projects that have defined my career—from my academic roots, where I completed my PhD and continued as a postdoctoral researcher at the **University of Hamburg**, to my time at the **Italian Institute of Technology**, where I further honed my expertise. Now, at **Sony**, working on the Digital Profile team, I apply this wealth of knowledge to drive innovation and create substantial business value, blending scientific rigor with strategic application.
+In addition to my main roles, I am an **external professor at the University of Pernambuco, Brazil**, where I am part of the <a href="https://timevisaoupe.github.io/", target="_blank">Time Visão research group</a>. I advise students, deliver lectures, and participate in innovative projects across many related fields.
+
+This site showcases the projects that have marked my career—from my academic tenure, achieving a PhD and continuing as a **postdoctoral researcher at the University of Hamburg, in Germany**, to my contributions as a **researcher at the Italian Institute of Technology, in Genova, Italy**. Currently, I am part of the **Digital Profile team at Sony**, driving innovation and merging scientific rigor with strategic business applications.
+
+Explore the site to discover public repositories I've contributed to and summaries of innovative projects that have defined my professional journey.
 
