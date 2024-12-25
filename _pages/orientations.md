@@ -11,8 +11,7 @@ horizontal: false
 <style  type="text/css">
 .container {
   width: 80%;
-  margin: auto;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: auto;  
 }
 
 h1 {
