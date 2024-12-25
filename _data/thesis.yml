@@ -1,0 +1,17 @@
+- type: PhD
+  title: Modeling Affection Mechanisms using Deep and Self-Organizing Neural Networks
+  link: https://www2.informatik.uni-hamburg.de/wtm/ps/PabloBarrosDissertation2016.pdf
+  year: 2026
+  place: Universität Hamburg, Hamburg, Germany
+
+- type: MSc
+  title: Um Sistema Para Reconhecimento e Previsão de Gestos ( in Portuguese)
+  link: assets/pdf/Msc_Thesis_Barros.pdf
+  year: 2013
+  place: Universidade de Pernambuco, Recife, Brazil
+
+- type: BSc
+  title: Projeto PaMDA - um framework semântico para geração de sistemas ( in Portuguese)
+  link: assets/pdf/Bsc_Thesis_Barros.pdf
+  year: 2011
+  place: Universidade Federal Rural de Pernambuco, Serra Talhada, Brazil
