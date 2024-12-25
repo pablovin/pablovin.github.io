@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "You can filter my publications per keywords.",
+          description: "You can filter my publications using keywords.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -93,12 +93,12 @@ ninja.data = [{
               window.location.href = "/projects/4_OMGEmpathy/";
             },},{id: "projects-shreckbots",
           title: 'Shreckbots',
-          description: "A dataset for story-driven narrative impact prediction",
+          description: "A chatbot management system",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_Shreckbots/";
             },},{id: "projects-my-game-log",
           title: 'My Game Log',
-          description: "A dataset for story-driven narrative impact prediction",
+          description: "A solution for video game collection management",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_MyGameLog/";
             },},{
