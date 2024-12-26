@@ -83,7 +83,7 @@ em {
         <div class="project">
           <div class="project-year"><strong>{{ member.year }}</strong></div>
           <div class="project-details">
-            <div class="project-title">"<a href="{{ member.link }}">{{ member.title | escape }}</a></div>
+            <div class="project-title"><a href="{{ member.link }}">{{ member.title | escape }}</a></div>
             <div class="project-info"><em>{{ member.place }}</em></div>
           </div>
         </div>
