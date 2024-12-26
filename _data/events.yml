@@ -1,0 +1,69 @@
+- name: Special Issues
+  members:
+    - title: Special Issue on Human-aligned reinforcement learning for autonomous agents and robots     
+      year: 2023
+      place: Springer Neural Computing and Applications
+      link: https://link.springer.com/journal/521/volumes-and-issues/35-23
+    - title: Special Issue on Automated Perception of Human Affect from Longitudinal Behavioral Data     
+      year: 2021
+      place: IEEE Transactions on Affective Computing
+      link: https://ieeexplore.ieee.org/document/9527282 
+    - title: Closing the Loop - From Human Behavior to Multisensory Robots      
+      year: 2019
+      place: Frontiers in Neurorobotics   
+      link: https://ieeexplore.ieee.org/document/9527282 
+    - title: Special Issue on Crossmodal Learning    
+      year: 2018
+      place: Elsevier Cognitive Systems Research  
+      link: ttps://ieeexplore.ieee.org/document/9527282    
+    
+- name: Workshops
+  members:
+    - title: Workshop on Computational Models for Crossmodal Learning
+      year: 2017
+      place: IEEE ICDL-EPIROB - Lisbon, Portugal 
+      link: https://www2.informatik.uni-hamburg.de/wtm/WorkshopCrossmodalLearning2017/index.php     
+    - title: Workshop on Intelligent Assistive Computing
+      year: 2018
+      place: IEEE WCCI - Rio de Janeiro, Brazil 
+      link: #    
+    - title: International Workshop on Affective and Assistive Robotics 
+      year: 2018
+      place: Recife, Brazil 
+      link: #
+    - title: Workshop on Crossmodal Learning for Intelligent Robotics 
+      year: 2018
+      place: IEEE/RSJ IROS 2018 - Madrid, Spain 
+      link:  https://www2.informatik.uni-hamburg.de/wtm/WorkshopCLIR18/index.php                 
+    - title: Workshop on Empathy Modelling in Real-World Scenarios - Lessons Learned from the OMG Empathy Prediction Challenge
+      year: 2019
+      place: IEEE FG 2019 - Lille, France
+      link: https://www2.informatik.uni-hamburg.de/wtm/omgchallenges/FGWorkshop2019.html  
+    - title: Dungeons, Neurons, and Dialogues - Social Interaction Dynamics in Contextual Games
+      year: 2024
+      place: ACII 2024 - Glasgow, Scotland
+      link: https://dnd-sidc.github.io/
+    - title: Dungeons, Neurons, and Dialogues 2nd edition - Social Interaction Dynamics in Contextual Games
+      year: 2025
+      place: HRI 2025 - Melborn, Australia
+      link: https://dnd-sidc.github.io/   
+
+
+- name: Challenges
+  members:
+    - title: OMG-Emotion Recognition Challenge  2018
+      year: 2018
+      place: WCCI/IJCNN 2018, Rio de Janeiro, Brazil
+      link: https://www2.informatik.uni-hamburg.de/wtm/omgchallenges/omg_emotion.html
+    - title: OMG-Empathy Prediction Challenge 2019
+      year: 2019
+      place: ICPR 2021, Milan, Italy
+      link:  https://www2.informatik.uni-hamburg.de/wtm/omgchallenges/omg_empathy.html   
+    - title: Chef`s Hat Cup
+      year: 2021
+      place: IEEE FG 2019, Lile, France
+      link:  https://whisperproject.eu/chefshat#competition
+    - title: Chef`s Hat Cup - Revenge of the Agent
+      year: 2023
+      place: IEEE LACCI 2023, Recife, Pernambuco
+      link:  https://www.chefshatcup.poli.br/

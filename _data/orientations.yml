@@ -50,6 +50,9 @@
     - title: Multi-Attribute Face Generation Using Conditional BEGAN
       student: A. Elshinawi
       year: 2018
+    - title: An Unsupervised Hybrid Neural Network for Novelty Detection in Acoustic Event Detection
+      student: J. Papmeier
+      year: 2018      
       place: Universität Hamburg, Hamburg, Germany 
     - title: Transfer Learning of Face Representations Using Semi-supervised Strategies
       student: E. Fliesswasser
@@ -94,3 +97,15 @@
       student: A. Lindt
       year: 2018
       place: Universität Hamburg, Hamburg, Germany         
+    - title: Supplementation of Training Data for a Robotic Arm using a Parameterized Generative Neural Network
+      student: K. Degkwitz
+      year: 2019
+      place: Universität Hamburg, Hamburg, Germany    
+    - title: Attention-based Image Captioning with Recurrent Neural Networks
+      student: L. Westphal
+      year: 2019
+      place: Universität Hamburg, Hamburg, Germany            
+    - title: Robots on the Move - An Evaluation of the Combination of Deictic Gesture Interface and Object Recognition with the NICO Robot
+      student: T. Kreuzer
+      year: 2019
+      place: Universität Hamburg, Hamburg, Germany                  
