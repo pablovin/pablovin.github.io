@@ -80,22 +80,22 @@ ninja.data = [{
               window.location.href = "/news/announcement_1/";
             },},{id: "projects-chef-s-hat-multiplayer-card-game",
           title: 'Chef`s Hat Multiplayer Card Game',
-          description: "Bulding a platform for social interaction and artificial intelligence studies based on a multiplayer card game.",
+          description: "(from 2019)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_chefshat/";
             },},{id: "projects-crossmodal-learning-in-a-neurobotic-cortical-and-midbrain-model",
           title: 'Crossmodal learning in a neurobotic cortical and midbrain model',
-          description: "Understand and model the brains mechanism for crossmodal learning",
+          description: "(from 2016)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_cml/";
-            },},{id: "projects-facechannel",
-          title: 'FaceChannel',
-          description: "A ligth-weighted neural network for facial expression description",
+            },},{id: "projects-deep-and-self-organizing-neural-networks-for-affective-modeling",
+          title: 'Deep and Self-organizing Neural Networks for Affective Modeling',
+          description: "(2013 - 2022)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_faceChannel/";
             },},{id: "projects-omg-empathy-dataset",
           title: 'OMG-Empathy Dataset',
-          description: "A dataset for story-driven narrative impact prediction",
+          description: "(2017 - 2022)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_OMGEmpathy/";
             },},{id: "projects-shreckbots",
@@ -108,6 +108,21 @@ ninja.data = [{
           description: "A solution for video game collection management",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_MyGameLog/";
+            },},{id: "projects-gesture-commands-for-robot-interaction",
+          title: 'Gesture Commands for Robot InTeraction',
+          description: "(2013 - 2016)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/7_gestureCommands/";
+            },},{id: "projects-gesture-recognition-applied-to-brazilian-sign-language",
+          title: 'Gesture Recognition applied to Brazilian Sign Language',
+          description: "(2011 - 2013)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/8_Libras/";
+            },},{id: "projects-aratu",
+          title: 'Aratu',
+          description: "(2011 - 2012)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/8_terrainMapping/";
             },},{
         id: 'social-email',
         title: 'email',
