@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OMG-Empathy Dataset
-description: A dataset for story-driven narrative impact prediction
+description: (2017 - 2022)
 img: assets/img/omg_empathy_scenario.png
 importance: 2
 category: work

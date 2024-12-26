@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Crossmodal learning in a neurobotic cortical and midbrain model
-description: Understand and model the brains mechanism for crossmodal learning
+description: (from 2016)
 img: assets/img/a5.jpg
 importance: 2
 category: work

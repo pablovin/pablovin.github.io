@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Chef`s Hat Multiplayer Card Game
-description: Bulding a platform for social interaction and artificial intelligence studies based on a multiplayer card game.
+description: (from 2019)
 img: assets/img/cardGame.jpg
 importance: 1
 category: work
