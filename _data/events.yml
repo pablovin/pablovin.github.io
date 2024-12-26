@@ -39,6 +39,10 @@
       year: 2019
       place: IEEE FG 2019 - Lille, France
       link: https://www2.informatik.uni-hamburg.de/wtm/omgchallenges/FGWorkshop2019.html  
+    - title: Workshop on Human-aligned Reinforcement Learning for Autonomous Agents and Robots
+      year: 2021
+      place: IEEE ICDL - Rancagua, Chile (Online)
+      link: https://harlworkshop.github.io/2021/index.html
     - title: Dungeons, Neurons, and Dialogues - Social Interaction Dynamics in Contextual Games
       year: 2024
       place: ACII 2024 - Glasgow, Scotland
@@ -48,6 +52,33 @@
       place: HRI 2025 - Melborn, Australia
       link: https://dnd-sidc.github.io/   
 
+- name: Invited Speakers
+  members:
+    - title: Discussion Panel on Human-aligned Reinforcement Learning for Autonomous Agents and Robots
+      year: 2024
+      place: HARL workshop at ICRA 2024, Yokohama, Japan
+      link: https://harlworkshop.github.io/2024/index.html
+    - title: How can we overcome feature-based and contextual biases when learning facial expression representations?
+      year: 2023
+      place: LEAP-HRI worksho at HRI 2023, Stockholm, Sweeden
+      link: https://leap-hri.github.io/2023/
+      link: https://www2.informatik.uni-hamburg.de/wtm/omgchallenges/omg_emotion.html      
+    - title: (Simply) the Best - Modeling Social Components when Designing Competitive Reinforcement Learning Agents
+      year: 2023
+      place: Lacoro 2023, Santiago, Chile
+      link:  https://www.lacoro.org/2023/program/
+    - title: Who is Afraid of Non-Universal (Deep Learned) Facial Perception?
+      year: 2022
+      place: Invited Talk at the University of Cambridge
+      link:  https://talks.cam.ac.uk/talk/index/178571
+    - title: Who is Afraid of Non-Universal (Deep Learned) Facial Perception?
+      year: 2022
+      place: Invited Talk at the University of Cambridge
+      link:  https://talks.cam.ac.uk/talk/index/178571      
+    - title: Who is Afraid of Non-Universal Facial Recognition?
+      year: 2022
+      place: FEEL-COG Workshop - ICDL 2022, London, UK
+      link:  https://whisperproject.eu/workshop-feel-cog-2022
 
 - name: Challenges
   members:
