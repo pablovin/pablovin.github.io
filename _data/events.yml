@@ -1,4 +1,4 @@
-- name: Special Issues
+- name: Special Issues Editorial
   members:
     - title: Special Issue on Human-aligned reinforcement learning for autonomous agents and robots     
       year: 2023
@@ -17,7 +17,7 @@
       place: Elsevier Cognitive Systems Research  
       link: ttps://ieeexplore.ieee.org/document/9527282    
     
-- name: Workshops
+- name: Workshops Organization
   members:
     - title: Workshop on Computational Models for Crossmodal Learning
       year: 2017
@@ -80,7 +80,7 @@
       place: FEEL-COG Workshop - ICDL 2022, London, UK
       link:  https://whisperproject.eu/workshop-feel-cog-2022
 
-- name: Challenges
+- name: Challenges and Competitions Organization
   members:
     - title: OMG-Emotion Recognition Challenge  2018
       year: 2018
