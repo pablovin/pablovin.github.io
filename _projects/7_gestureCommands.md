@@ -2,7 +2,7 @@
 layout: page
 title: Gesture Commands for Robot InTeraction
 description: (2013 - 2016)
-img: assets/img/myGameLogs_Logo.png
+img: assets/img/grit.png
 importance: 2
 category: work
 related_publications: false

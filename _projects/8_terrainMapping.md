@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Aratu
-description: Terrain Mapping Robot
 description: (2011 - 2012)
+img: assets/img/aratu_foto.jpg
 importance: 2
-category: fun
+category: work
 related_publications: false
 ---
 
