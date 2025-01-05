@@ -78,6 +78,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
+            },},{id: "news-aceitando-alunos-de-mestrado-e-doutorado-brazil",
+          title: 'Aceitando Alunos de Mestrado e Doutorado - Brazil',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
             },},{id: "projects-chef-s-hat-multiplayer-card-game",
           title: 'Chef`s Hat Multiplayer Card Game',
           description: "(from 2019)",
